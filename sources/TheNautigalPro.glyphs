@@ -64756,6 +64756,21 @@ note = hyphen;
 unicode = 002D;
 },
 {
+glyphname = softhyphen;
+lastChange = "2021-10-20 22:56:54 +0000";
+layers = (
+{
+layerId = "E1C4CDDB-EFDF-468A-8ACC-65E2DFDE53DF";
+width = 241;
+},
+{
+layerId = "10EE7422-BC27-45A8-8DF8-0D41623AEA15";
+width = 241;
+}
+);
+unicode = 00AD;
+},
+{
 glyphname = endash;
 lastChange = "2021-10-20 21:08:18 +0000";
 layers = (
