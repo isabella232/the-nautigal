@@ -126,6 +126,56 @@ alignmentZones = (
 );
 ascender = 625;
 capHeight = 600;
+customParameters = (
+{
+name = typoAscender;
+value = 870;
+},
+{
+name = typoDescender;
+value = -330;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 870;
+},
+{
+name = hheaDescender;
+value = -330;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 870;
+},
+{
+name = winDescent;
+value = 330;
+},
+{
+name = strikeoutPosition;
+value = 287;
+},
+{
+name = strikeoutSize;
+value = 20;
+},
+{
+name = underlinePosition;
+value = -133;
+},
+{
+name = underlineThickness;
+value = 20;
+}
+);
 descender = -310;
 horizontalStems = (
 18,
@@ -153,11 +203,11 @@ capHeight = 600;
 customParameters = (
 {
 name = typoAscender;
-value = 787;
+value = 870;
 },
 {
 name = typoDescender;
-value = -419;
+value = -330;
 },
 {
 name = typoLineGap;
@@ -165,11 +215,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 787;
+value = 870;
 },
 {
 name = hheaDescender;
-value = -419;
+value = -330;
 },
 {
 name = hheaLineGap;
@@ -177,11 +227,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 787;
+value = 870;
 },
 {
 name = winDescent;
-value = 419;
+value = 330;
 },
 {
 name = strikeoutPosition;
@@ -95356,5 +95406,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 4;
 }
