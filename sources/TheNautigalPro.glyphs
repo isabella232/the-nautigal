@@ -1,5 +1,8 @@
 {
 .appVersion = "1352";
+DisplayStrings = (
+A
+);
 copyright = "Copyright 2013-2021 The Nauthigal Project Authors (https://github.com/googlefonts/the-nautigal)";
 customParameters = (
 {
@@ -127,20 +130,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 787;
-},
-{
-name = winDescent;
-value = 419;
-},
-{
 name = hheaAscender;
 value = 787;
 },
 {
 name = hheaDescender;
 value = -419;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 787;
+},
+{
+name = winDescent;
+value = 419;
 },
 {
 name = strikeoutPosition;
@@ -54042,21 +54049,20 @@ width = 242;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = TheNautigal;
-},
-{
-name = postscriptFontName;
-value = TheNautigal;
-}
-);
+interpolationWeight = 300;
 instanceInterpolations = {
 "E1C4CDDB-EFDF-468A-8ACC-65E2DFDE53DF" = 1;
 };
 name = Light;
 weightClass = Light;
+},
+{
+interpolationWeight = 400;
+interpolationWidth = 5;
+instanceInterpolations = {
+"10EE7422-BC27-45A8-8DF8-0D41623AEA15" = 1;
+};
+name = Regular;
 }
 );
 kerning = {
