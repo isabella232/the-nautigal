@@ -57,15 +57,6 @@ value = (
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
 }
 );
 date = "2021-10-20 20:54:06 +0000";
