@@ -1,6 +1,6 @@
 # The Nautigal
 
-Inspired by the hand lettering design for a friend’s yacht, this contemporary script style, TheNautiGal is sexy yet formal with beautiful connectors.
+Inspired by the hand lettering design for a friend’s yacht, this contemporary script style, The Nautigal is fluid yet formal with beautiful connectors.
 
 ![Sample Image](Documentation/image1.png)
 
