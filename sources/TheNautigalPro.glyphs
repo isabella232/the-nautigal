@@ -23,7 +23,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2013-2021 The The Nauthigal Project Authors (https://github.com/googlefonts/the-nautigal)";
+copyright = "Copyright 2013-2021 The The Nautigal Project Authors (https://github.com/googlefonts/the-nautigal)";
 customParameters = (
 {
 name = licenseURL;
